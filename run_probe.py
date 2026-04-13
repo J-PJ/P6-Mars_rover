@@ -12,7 +12,7 @@ import time
 from ultralytics import YOLO
 
 # ---------------- USER SETTINGS ----------------
-MODEL_PATH = "/home/jens0913/runs/detect/runs/train_probe/y26s_probe8/weights/best.pt"
+MODEL_PATH = "models/best.pt"
 YOLO_CONF  = 0.25
 
 YOLO_INTERVAL = 1.0   # seconds → 1 FPS
