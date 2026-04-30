@@ -1,6 +1,6 @@
 # 🚀 P6 — Mars Rover Autonomous Navigation
 
-> **6th Semester Project** | Autonomous probe detection and navigation on Mars using YOLO and ROS2
+> **6th Semester Project** | Autonomous probe detection and navigation on Mars using SLAM, YOLO and ROS2
 
 ---
 
