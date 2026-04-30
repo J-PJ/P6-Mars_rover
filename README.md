@@ -26,7 +26,7 @@ P6-Mars_rover/
 > *(Add your dependencies here as the project grows)*
 
 - Python 3.x
-- ROS2 (tested on: *(add distro, e.g. Humble)*)
+- ROS2 (tested on: Humble)
 - YOLOv8 / Ultralytics
 - *(Add any other dependencies)*
 
@@ -97,16 +97,20 @@ ros2 topic echo /probe/data
 
 ## 👥 Contributors
 
-> *(Add team members here)*
+> 
 
-- Member 1
-- Member 2
+- Jens Petersen Jørgensen
+- Filip Kulik
+- Simon Garner
+- William Christensen
+- Rasmus Christensen
+- Nina Chrisetensen
 
 ---
 
 ## 📄 License
 
-> *(Add your license here, e.g. MIT)*
+> AAU universety
 
 ---
 
