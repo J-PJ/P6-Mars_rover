@@ -27,7 +27,7 @@ P6-Mars_rover/
 
 - Python 3.x
 - ROS2 (tested on: Humble)
-- YOLOv8 / Ultralytics
+- YOLOv26 / Ultralytics
 - *(Add any other dependencies)*
 
 ---
